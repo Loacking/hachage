@@ -6,9 +6,14 @@
 //
 
 #include <stdio.h>
-
+#include "hachage.h"
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+
+    char *prenom = "Ludovic Doppler";
+    hachage(prenom);
+    printf("%d \n",*prenom);
+    
+    
+    
     return 0;
 }

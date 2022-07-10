@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		6FAA6FB0287AFE7C0090D1CE /* hachage */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hachage; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FAA6FB3287AFE7C0090D1CE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		6FAA6FBD287AFF200090D1CE /* hachage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hachage.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				6FAA6FB3287AFE7C0090D1CE /* main.c */,
+				6FAA6FBD287AFF200090D1CE /* hachage.h */,
 			);
 			path = hachage;
 			sourceTree = "<group>";
